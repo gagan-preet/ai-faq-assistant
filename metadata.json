@@ -1,0 +1,7 @@
+{
+  "name": "AI Compound Question Answering",
+  "description": "An intelligent FAQ assistant that allows users to ask complex, multi-part questions via voice. The app transcribes the speech, breaks the query into sub-questions using AI, and retrieves the most relevant answers from a knowledge base for each part.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
